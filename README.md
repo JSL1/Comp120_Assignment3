@@ -1,2 +1,8 @@
-# Comp120_Assignment3
-Lab assignment 3 for COMP120
+# Tip Calculator
+
+A simple Python program to calculate tips.
+
+## Usage
+
+```bash
+python tip_calculator.py****
