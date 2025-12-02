@@ -12,3 +12,7 @@ elif (service == 'poor' or service == 'Poor'):
     tip = 0
 else:
     tip = 1
+total = bill + tip
+
+print(f'the ideal tip is {tip}. your total with tip is {total}')
+
